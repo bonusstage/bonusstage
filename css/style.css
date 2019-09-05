@@ -32,7 +32,12 @@ body,
 /* Fonts */
 
 h1 {
-    font-size: 3.5rem;
+    font-size: 5rem;
     font-family: 'Lacquer', sans-serif;
     font-weight: 400;
+}
+
+p.heroSubtext {
+	font-family: 'Poiret One', serif;
+	font-size: 2rem;
 }
