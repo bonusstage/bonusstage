@@ -19,21 +19,21 @@ body,
   padding: 5px 0 !important; }
 
 .top-nav-collapse {
-  background-color: #1C2331; }
+  background-color: #000000; }
 
 /* Adding color to the Navbar on mobile */
 @media only screen and (max-width: 768px) {
   .navbar {
-    background-color: #1C2331; } }
+    background-color: #000000; } }
 
 /* Footer color for sake of consistency with Navbar */
 .page-footer {
-  background-color: #1C2331; }
+  background-color: #000000; }
 
 /* Fonts */
 
 h1 {
-    font-size: 5rem;
+    font-size: 7rem;
     font-family: 'Cookie', sans-serif;
     font-weight: 400;
 }
@@ -48,4 +48,8 @@ p.heroSubtext_smaller {
 	font-family: 'Poiret One', serif;
 	font-size: 1.4rem;
 	margin-bottom: 2rem;
+}
+
+.mb-4, .my-4 {
+    margin-bottom: 0;
 }
