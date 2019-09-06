@@ -55,3 +55,12 @@ p.heroSubtext_smaller {
 .hero-h1 {
     margin-bottom: 0;
 }
+
+.team-section .avatar img {
+    max-width: 200px;
+    height: auto;
+}
+
+.team-section .avatar img.rounded-circle {
+    max-width: 150px;
+}
