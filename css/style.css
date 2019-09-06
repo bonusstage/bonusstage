@@ -63,6 +63,8 @@ p.heroSubtext_smaller {
 
 .card-img-top {
     display: inline-block !important;
+    width: auto !important;
+    height: 280px !important;
 }
 
 .container.team-awesome {
